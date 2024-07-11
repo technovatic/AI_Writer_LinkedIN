@@ -1,0 +1,5 @@
+/* Ensure Tailwind CSS is imported */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
