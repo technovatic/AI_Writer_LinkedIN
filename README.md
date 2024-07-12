@@ -35,7 +35,8 @@ Edit LinkedIN Code file to see any updates reflecting in your chrome extension a
 ![LinkedIN AI Text Inserted](https://github.com/user-attachments/assets/1d60d287-bda3-4a0b-a703-b362b7b07ba1)
 
 ## Prototype Live Demo Output
-https://github.com/user-attachments/assets/72e9b0a7-83c4-44c0-87b1-eb87345baecb.mp4
+https://github.com/user-attachments/assets/6f926029-9d68-495d-a977-f8019652dd11.mp4](https://github.com/user-attachments/assets/576d8cc7-27bb-42c5-9290-17f235653ccf.mp4
+
 
 ## Making production build
 
