@@ -1,5 +1,7 @@
 
-# ChatGPT Writer Take-Home Coding Assignment
+# ChatGPT Writer LinkedIN AI Chat Generator
+
+https://github.com/user-attachments/assets/2fe40aa8-493c-4e4d-946c-58f78c7ba900.mp4
 
 https://chatgptwriter.ai
 
