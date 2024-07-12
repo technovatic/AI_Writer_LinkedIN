@@ -11,9 +11,7 @@ This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with
 ![LinkedIN AI Text Generated](https://github.com/user-attachments/assets/ec9215e6-b01f-4804-9f47-e7c9cddd6a50)
 ![LinkedIN AI Text Inserted](https://github.com/user-attachments/assets/1d60d287-bda3-4a0b-a703-b362b7b07ba1)
 
-
-https://github.com/user-attachments/assets/a4a1e76e-4615-4201-9148-6b1f46ba3f08
-
+https://youtu.be/iVHc43M04kU
 
 ## Getting Started
 
@@ -35,7 +33,6 @@ For further guidance, [visit our Documentation](https://docs.plasmo.com/).
 
 - The main code is located in src/content.tsx. By default, when you run the extension, it displays a static count button on the LinkedIn website. You need to replace it with your own code.
 
-![count btn on linkedin](count_btn_on_linkedin.png)
 
 ## Making production build
 
