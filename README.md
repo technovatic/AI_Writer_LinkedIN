@@ -5,6 +5,9 @@ https://chatgptwriter.ai
 
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with command: `pnpm create plasmo --with-tailwindcss`.
 
+## Prototype Live Demo Output
+https://github.com/user-attachments/assets/0c01b366-132e-4e98-9119-491b1f59e6d4.mp4
+
 ## Getting Started
 
 1. Install dependencies: `pnpm i` or `pnp i`
@@ -31,9 +34,6 @@ Edit LinkedIN Code file to see any updates reflecting in your chrome extension a
 ![LinkedIN AI Prompt Insertion](https://github.com/user-attachments/assets/d41a0162-3927-44c3-b903-1fd9636ca3ca)
 ![LinkedIN AI Text Generated](https://github.com/user-attachments/assets/ec9215e6-b01f-4804-9f47-e7c9cddd6a50)
 ![LinkedIN AI Text Inserted](https://github.com/user-attachments/assets/1d60d287-bda3-4a0b-a703-b362b7b07ba1)
-
-## Prototype Live Demo Output
-https://github.com/user-attachments/assets/0c01b366-132e-4e98-9119-491b1f59e6d4.mp4
 
 ## Making production build
 
