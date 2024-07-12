@@ -11,6 +11,10 @@ This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with
 ![LinkedIN AI Text Generated](https://github.com/user-attachments/assets/ec9215e6-b01f-4804-9f47-e7c9cddd6a50)
 ![LinkedIN AI Text Inserted](https://github.com/user-attachments/assets/1d60d287-bda3-4a0b-a703-b362b7b07ba1)
 
+
+https://github.com/user-attachments/assets/a4a1e76e-4615-4201-9148-6b1f46ba3f08
+
+
 ## Getting Started
 
 1. Install dependencies: `pnpm i` or `pnp i`
